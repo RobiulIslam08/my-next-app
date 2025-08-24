@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "TechBrand X200",
+      "brand": "TechBrand",
+      "category": "Electronics",
+      "description": "A powerful smartphone with a 6.7-inch AMOLED display, 128GB storage, and 48MP triple camera.",
+      "price": 499,
+      "rating": 4.5,
+      "image": "https://i.ibb.co/7tR7x3z/techbrand-x200.jpg",
+      "createdAt": "2025-08-01T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "SoundMaster M10",
+      "brand": "SoundMaster",
+      "category": "Electronics",
+      "description": "Mid-range mobile with 6.3-inch display, 64GB storage, dual speakers, and 4000mAh battery.",
+      "price": 299,
+      "rating": 4.2,
+      "image": "https://i.ibb.co/3B9Y5qj/soundmaster-m10.jpg",
+      "createdAt": "2025-08-05T14:45:00Z"
+    },
+    {
+      "id": 3,
+      "name": "VisionTech Pro 12",
+      "brand": "VisionTech",
+      "category": "Electronics",
+      "description": "Flagship phone featuring a 6.9-inch OLED display, 256GB storage, and AI-enhanced quad camera setup.",
+      "price": 899,
+      "rating": 4.8,
+      "image": "https://i.ibb.co/Hd8Lc9v/visiontech-pro12.jpg",
+      "createdAt": "2025-08-10T09:20:00Z"
+    },
+    {
+      "id": 4,
+      "name": "CompTech Lite 5G",
+      "brand": "CompTech",
+      "category": "Electronics",
+      "description": "Affordable 5G smartphone with 6.5-inch display, 128GB storage, and 4500mAh battery.",
+      "price": 349,
+      "rating": 4.3,
+      "image": "https://i.ibb.co/F8h7yBp/comptech-lite5g.jpg",
+      "createdAt": "2025-08-12T18:10:00Z"
+    },
+    {
+      "id": 5,
+      "name": "SecureHome A9",
+      "brand": "SecureHome",
+      "category": "Electronics",
+      "description": "Smartphone with built-in security features, 6.4-inch FHD display, 128GB storage, and fingerprint unlock.",
+      "price": 399,
+      "rating": 4.4,
+      "image": "https://i.ibb.co/tp7dVHv/securehome-a9.jpg",
+      "createdAt": "2025-08-15T16:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "TechBrand Ultra S",
+      "brand": "TechBrand",
+      "category": "Electronics",
+      "description": "Premium device with 7.0-inch AMOLED display, 512GB storage, 108MP camera, and 5G support.",
+      "price": 1199,
+      "rating": 4.9,
+      "image": "https://i.ibb.co/f9TgwjJ/techbrand-ultras.jpg",
+      "createdAt": "2025-08-20T12:50:00Z"
+    }
+  ]
+}
