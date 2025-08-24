@@ -1,3 +1,4 @@
+import Navbar from '@/component/Navbar';
 import React from 'react';
 
 const HomePage = async() => {
@@ -8,6 +9,7 @@ const HomePage = async() => {
   console.log(product)
   return (
     <div>
+      <Navbar/>
       Home
     </div>
   );
